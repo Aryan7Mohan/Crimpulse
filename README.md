@@ -1,2 +1,2 @@
 # Crimpulse
-Small test project for tast manager
+Small test project for task manager
